@@ -1,4 +1,4 @@
-package InclassHomework.PracticePrograms;
+package InclassHomework.PracticeProgramsForFun;
 
 import java.util.*;
 public class InputTest {

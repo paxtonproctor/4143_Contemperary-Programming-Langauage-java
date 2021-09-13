@@ -1,4 +1,4 @@
-package InclassHomework.PracticePrograms;
+package InclassHomework.PracticeProgramsForFun;
 
 public class Welcometojavacore {
     public static void main (String[] args){

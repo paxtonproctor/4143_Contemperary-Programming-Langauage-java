@@ -1,4 +1,4 @@
-package InclassHomework.PracticePrograms;
+package InclassHomework;
 
 public class Employee {
 

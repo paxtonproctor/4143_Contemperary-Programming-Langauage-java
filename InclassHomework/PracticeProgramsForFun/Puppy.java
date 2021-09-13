@@ -5,7 +5,7 @@
  */
 
 
-package InclassHomework.PracticePrograms;
+package InclassHomework.PracticeProgramsForFun;
 
 public class Puppy 
 {
