@@ -2,7 +2,11 @@
 // Programassignment1
 // CMPS-4143-101 Top: Cont Programming Language
 // 9/15/2021
-// 
+/** The first problem takes a array of 20 integers and will sort them in order from smallest to largest.
+ *  Then it will print out the smallest and largest number.
+ *  The second problem 
+ * 
+ */
 
 package ProgramAssignments;
 
@@ -19,46 +23,46 @@ public class Programassignment1 {
         System.out.println(firstArray[0]);
         System.out.println(firstArray[19]);
         // length of array
-        //System.out.println(firstArray.length);
+        // System.out.println(firstArray.length);
 
-        // regular loop
-        /**
-        for(int i=0; i<firstArray.length; i++){
+        // regular loop to print first array
+        /**for(int i=0; i<firstArray.length; i++){
             System.out.println(firstArray[i]);
-        }
-        */
-
+        }*/
+        
         /////////////////////////////////////////////////////////////////////////////////////////////////////
-        /**
-        int[] Xarray = {};
-        System.arraycopy (Yarray, 0, Xarray, 0, Yarray.length);
+        int[] Xarray = {10, 100, 40, 28, 98, 37, 12, 63};
+        System.arraycopy (Xarray, 0, Xarray, 0, Xarray.length);
         int [] copyXarray = Arrays.copyOf (Xarray, Xarray.length);
-        */
+        Arrays.sort(copyXarray);
 
-        /**
-         int matrix[][] = new int [4][4];
-         for (int col = left; col <= right; col++){
-             results.add(matrix[up][col]);
-         }
-         for (int row = up; row <= down; row++){
-             results.add(matrix[row][right]);
-         }
-         if (up != down) {
-             for (in col = right - 1; col >= left; col --) {
-                 results.add(matrix[down][col]);
-             }
-         }
-         if (left != right) {
-             for (int row = down - 1; row > up; row--){
-                 result.add(matrix[row][left]);
-             }
-         }
-         int rows = matrix.length;
-         int columns = matrix[0].length;
-         int up = 0;
-         int left = 0;
-         int right = columns -1;
-         int down = rows -1;
-        */
+        //////////////////////////////////////////////////////////////////////////////////////////////////////
+        String num4 = "Before trying to do any of the steps below, you should read the article" +
+        "through at least once for basic understanding. Then go back and review, following these steps." +
+        "He ran his machine up to the stone porch and ascending the steps rang the door bell. They" +
+        "directed their steps toward the sea, which was lit up by the rising moon. She breathed a sigh of" +
+        "relief, and her light steps fell gradually into the measure of his. This was fully four feet under" +
+        "water and the lower story of the place was two steps lower down.";
+
+        String Storage [];
+        int Count[];
+
+        
+
+        
+        //String storage[][] = new int[][];
+
+        //////////////////////////////////////////////////////////////////////////////////////////////////////
+
+        String num5 = "this is my first programming assignment.";
+
+        char[] ch = new char[num5.length()];
+
+        for(int i = 0; i < num5.length(); i++){
+            ch[i] = num5.charAt(i);
+        }
+
+
     }
 }
+
