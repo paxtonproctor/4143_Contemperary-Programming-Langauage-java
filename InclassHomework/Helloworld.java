@@ -11,10 +11,10 @@ class Helloworld {
         //System.out.println("Helloworld");
         
         //Declaration of the array
-        int rolls[] = new int [10];
-        int[] a = new int [5];
+        //int rolls[] = new int [10];
+        //int[] a = new int [5];
 
         // initialization of an array
-        int [] b = new int[] {2, 3, 4, 5, 6};
+        //int [] b = new int[] {2, 3, 4, 5, 6};
     }
 }

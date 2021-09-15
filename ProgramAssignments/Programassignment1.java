@@ -4,8 +4,6 @@
 // 9/15/2021
 /** The first problem takes a array of 20 integers and will sort them in order from smallest to largest.
  *  Then it will print out the smallest and largest number.
- *  The second problem 
- * 
  */
 
 package ProgramAssignments;

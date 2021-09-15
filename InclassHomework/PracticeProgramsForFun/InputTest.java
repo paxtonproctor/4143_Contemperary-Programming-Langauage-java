@@ -1,5 +1,5 @@
 package InclassHomework.PracticeProgramsForFun;
-
+/** 
 import java.util.*;
 public class InputTest {
     public static void main(String[] args){
@@ -16,4 +16,4 @@ public class InputTest {
         // display out on console
         System.out.println("hello, " + name + ". Next Year, You'll be " + (age + 1) + ".");
     }
-}
+}*/
