@@ -28,9 +28,10 @@ public class MultipleInheritance implements THREE{
         
     public static void main(String[] args){
         MultipleInheritance obj1 = new MultipleInheritance();
-            obj1.print_one();
-            obj1.print_two();
-            obj1.print_three();
+        
+        obj1.print_one();
+        obj1.print_two();
+        obj1.print_three();
     }
 }
 
