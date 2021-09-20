@@ -7,7 +7,7 @@
  *  and switch it by taking the elements and switching them over
  */
 
-package ProgramAssignments;
+package ProgramAssignments.ProgramAssignment1;
 
 import java.util.Arrays;
 

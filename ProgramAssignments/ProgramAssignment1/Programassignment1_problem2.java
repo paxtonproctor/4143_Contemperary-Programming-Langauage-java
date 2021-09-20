@@ -8,7 +8,7 @@
  *  we lastly compare x and y and put them together.
  */
 
-package ProgramAssignments;
+package ProgramAssignments.ProgramAssignment1;
 
 import java.util.Arrays;
 import java.util.Collections;

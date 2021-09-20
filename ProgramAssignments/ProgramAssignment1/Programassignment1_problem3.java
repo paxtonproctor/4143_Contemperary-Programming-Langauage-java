@@ -8,7 +8,7 @@
  *  completed and will then output the numbers with the highest repeated value.
  */
 
-package ProgramAssignments;
+package ProgramAssignments.ProgramAssignment1;
 
 public class Programassignment1_problem3 {
     public static void main(String[] args){

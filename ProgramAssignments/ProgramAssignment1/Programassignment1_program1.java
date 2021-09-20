@@ -6,7 +6,7 @@
  *  Then it will print out the smallest and largest number.
  */
 
-package ProgramAssignments;
+package ProgramAssignments.ProgramAssignment1;
 
 import java.util.Arrays; 
 
