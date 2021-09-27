@@ -72,7 +72,7 @@ class Car implements Vehicle{
    }
 }
 
-class main{
+class Main{
     public static void main(String [] args){
         Bicycle bicycle = new Bicycle();
         bicycle.changeGear(1);
