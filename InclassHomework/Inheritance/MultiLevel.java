@@ -17,7 +17,6 @@ class three extends two{
         return ("I am from CHILD class");
     }
 }
-
 public class MultiLevel {
     public static void main (String[] args) {
         three childObj = new three();
