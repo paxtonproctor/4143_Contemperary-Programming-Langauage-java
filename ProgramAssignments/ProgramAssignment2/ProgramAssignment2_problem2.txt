@@ -1,0 +1,296 @@
+By Paxton Proctor
+**************************************************************************
+
+***This is Part A where is shows a example that each member will have the following and can do stuff***
+
+
+I am Eating Weed
+
+I gave Birth
+I am Sleeping
+
+I am Walking on 4
+
+Number of legs 4
+Does it have a tail? true
+Does it have a brain?  true
+Number of Neurons 16
+The total Precision 100.0%
+When was it born? 100
+What does it eat? Weed
+
+**************************************************************************
+
+***part C, Create at least 5 animals cannot create a perissodactyl***
+
+
+Mammilia
+Number of legs 4
+Does it have a tail? true
+Does it have a brain?  true
+Number of Neurons 12
+The total Precision 99.3%
+When was it born? 100
+What does it eat? Grass
+
+Theria
+Number of legs 4
+Does it have a tail? true
+Does it have a brain?  true
+Number of Neurons 11
+The total Precision 88.3%
+When was it born? 100
+What does it eat? Plants
+
+Placentalia
+ Number of legs 4
+Does it have a tail? true
+Does it have a brain?  true
+Number of Neurons 10
+The total Precision 77.3%
+When was it born? 100
+What does it eat? Pizza
+
+Boreoeutheria
+Number of legs 4
+Does it have a tail? true
+Does it have a brain?  true
+Number of Neurons 9
+The total Precision 66.3%
+When was it born? 100
+What does it eat? Chicken
+
+Laurasiatheria
+Number of legs 4
+Does it have a tail? true
+Does it have a brain?  true
+Number of Neurons 8
+The total Precision 55.3%
+When was it born? 100
+What does it eat? Steak
+
+**************************************************************************
+
+***part D, Change at least 20 animal attributes and change at least 10 animals hunting speed there speed and there hunting***
+
+
+Mammilia Speed Change!4
+
+Mammilia Speed Change!3
+
+Theria Speed Change! 6
+
+Theria Speed Change! 2
+
+Placentalia Speed Change! 9
+
+Placentalia Speed Change! 7
+
+Boreoeutheria Speed Change! 52
+
+Boreoeutheria Speed Change! 46
+
+Lausiatheria Speed Change!14
+
+Lausiatheria Speed Change!5
+
+Euarchontoglires Speed Change! 6
+
+Euarchontoglires Speed Change! 2
+
+Glires Speed Change! 19
+
+Glires Speed Change! 7
+
+Ferae Speed Change! 556
+
+FeraeSpeed Change! 112
+
+Chiroptera Speed Change! 85
+
+Chiroptera Speed Change! 64
+
+Euunguiata Speed Change! 51
+
+EuunguiataSpeed Change! 11
+
+Mammilia
+Number of legs 4
+Does it have a tail? true
+Does it have a brain?  true
+Number of Neurons 9
+The total Precision 65.3%
+When was it born? 100
+What does it eat? eggs
+
+Theria
+Number of legs 4
+Does it have a tail? false
+Does it have a brain?  true
+Number of Neurons 2
+The total Precision 12.3%
+When was it born? 100
+What does it eat? trees
+
+Placentalia
+ Number of legs 4
+Does it have a tail? true
+Does it have a brain?  true
+Number of Neurons 3
+The total Precision 43.8%
+When was it born? 100
+What does it eat? people
+
+Boreoeutheria
+Number of legs 4
+Does it have a tail? true
+Does it have a brain?  true
+Number of Neurons 99
+The total Precision 3.3%
+When was it born? 100
+What does it eat? cs professors
+
+Laurasiatheria
+Number of legs 4
+Does it have a tail? false
+Does it have a brain?  true
+Number of Neurons 82
+The total Precision 54.3%
+When was it born? 100
+What does it eat? cs students not including Paxton
+
+Monotremata
+Number of legs 4
+Does it have a tail? false
+Does it have a brain?  true
+Number of Neurons 1
+The total Precision 23.9%
+When was it born? 100
+What does it eat? computers
+
+Marsupialia
+Number of legs 4
+Does it have a tail? true
+Does it have a brain?  true
+Number of Neurons 90
+The total Precision 12.333%
+When was it born? 100
+What does it eat? shrimp
+
+Atlantogenata
+ Number of legs 4
+Does it have a tail? true
+Does it have a brain?  true
+Number of Neurons 34
+The total Precision 43.8888%
+When was it born? 100
+What does it eat? Tobey Maguire
+
+Xenarthra
+Number of legs 4
+Does it have a tail? true
+Does it have a brain?  true
+Number of Neurons 999
+The total Precision 3.23%
+When was it born? 100
+What does it eat? fish
+
+Afrotheria
+Number of legs 4
+Does it have a tail? false
+Does it have a brain?  true
+Number of Neurons 823
+The total Precision 54.3333%
+When was it born? 100
+What does it eat? sharks
+
+Euarchontoglires
+Number of legs 4
+Does it have a tail? true
+Does it have a brain?  true
+Number of Neurons 6
+The total Precision 12.3%
+When was it born? 100
+What does it eat? poop
+
+Glires
+Number of legs 4
+Does it have a tail? false
+Does it have a brain?  true
+Number of Neurons 28
+The total Precision 23.66%
+When was it born? 100
+What does it eat? Soup
+
+Euarchonta
+ Number of legs 4
+Does it have a tail? true
+Does it have a brain?  true
+Number of Neurons 39
+The total Precision 41.8%
+When was it born? 100
+What does it eat? people
+
+Scrotifera
+Number of legs 4
+Does it have a tail? false
+Does it have a brain?  true
+Number of Neurons 22
+The total Precision 3.333%
+When was it born? 100
+What does it eat? cs professors
+
+Eulipotphia
+Number of legs 4
+Does it have a tail? false
+Does it have a brain?  true
+Number of Neurons 82
+The total Precision 54.3%
+When was it born? 100
+What does it eat? cs students not including Paxton
+
+Chiroptera
+Number of legs 4
+Does it have a tail? false
+Does it have a brain?  true
+Number of Neurons 1
+The total Precision 23.9%
+When was it born? 100
+What does it eat? computers
+
+Euunquiata
+Number of legs 4
+Does it have a tail? true
+Does it have a brain?  true
+Number of Neurons 90
+The total Precision 12.333%
+When was it born? 100
+What does it eat? shrimp
+
+Ferae
+ Number of legs 4
+Does it have a tail? true
+Does it have a brain?  true
+Number of Neurons 34
+The total Precision 43.8888%
+When was it born? 100
+What does it eat? Tobey Maguire
+
+Cetartiodactyla
+Number of legs 4
+Does it have a tail? true
+Does it have a brain?  true
+Number of Neurons 999
+The total Precision 3.23%
+When was it born? 100
+What does it eat? fish
+
+Perissodactyla
+Number of legs 4
+Does it have a tail? false
+Does it have a brain?  true
+Number of Neurons 823
+The total Precision 54.3333%
+When was it born? 100
+What does it eat? sharks
+
