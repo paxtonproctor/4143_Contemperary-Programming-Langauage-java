@@ -27,7 +27,7 @@ public class Programassignment1_problem3 {
         // Only way I found to do this problem is by using the split method.
         // From what I can tell it splits the string during every space and then returns it into a array.
         // Then it will lastly make the array length size the number of words given in the string.
-        String words [] = Paragraph.split("\s");
+        String words [] = Paragraph.split("\\s");
 
         // Two dynamic Arrays one for storing words and the other for counting the repeated words that pop up.
         String Storage [] = new String[words.length];
