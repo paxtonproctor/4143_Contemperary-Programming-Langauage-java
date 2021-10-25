@@ -18,7 +18,7 @@ public class Programassignment1_problem4 {
     String S = "This is my first programming assignment";
 
     // stores each word into a array
-    String wordsS [] = S.split("\s");
+    String wordsS [] = S.split("\\s");
     // for loop creates a temporary variable and swiches the front to back
         for(int a = 0; a < wordsS.length / 2; a++) {
             String strTemp = wordsS[a];
